@@ -31,7 +31,7 @@
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left">💻 Technology Stack:</h3>
 <p align="center">
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" />
@@ -69,6 +69,6 @@
 ---
 
 <h3 align="center">✨ Fun Quote:</h3>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quote" />
-</div>
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default" alt="Fun Quote" />
+</p>
