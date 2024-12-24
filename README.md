@@ -21,7 +21,7 @@
   
   - 🌱 Currently mastering **System Design & Cloud Architecture**
   
-  - 👨‍💻 Portfolio: [Coming Soon...]()
+  - 👨‍💻 Portfolio: [https://avijit-dam.netlify.app]()
   
   - 💬 Ask me about **MERN, Next.js, Supabase**
   
