@@ -21,7 +21,7 @@
   
   - 🌱 Currently mastering **System Design & Cloud Architecture**
   
-  - 👨‍💻 Portfolio: [Coming Soon...]()
+  - 👨‍💻 Portfolio: [https://avijit-dam.netlify.app](https://avijit-dam.netlify.app)
   
   - 💬 Ask me about **MERN, Next.js, Supabase**
   
@@ -31,17 +31,17 @@
 <br/>
 <br/>
 
-<!-- Tech Stack Section with Modern Layout -->
+<!-- Tech Stack Section -->
 <h2 align="center">🛠️ Technology Arsenal</h2>
 <div align="center">
   <!-- Frontend -->
   <h3>Frontend Expertise</h3>
   <p>
+    <img src="https://img.shields.io/badge/JavaScript-84.98%25-yellow?style=for-the-badge&logo=javascript" alt="javascript"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
+    <img src="https://img.shields.io/badge/CSS-9.01%25-purple?style=for-the-badge&logo=css3" alt="css"/>
+    <img src="https://img.shields.io/badge/HTML-2.42%25-orange?style=for-the-badge&logo=html5" alt="html"/>
   </p>
   
   <!-- Backend -->
@@ -50,27 +50,25 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
     <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+    <img src="https://img.shields.io/badge/Python-2.28%25-blue?style=for-the-badge&logo=python" alt="python"/>
   </p>
+</div>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Metrics</h2>
+<div align="center">
+  <!-- Custom Stats Card -->
+  <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin-bottom: 16px;">
+    <h3 style="color: #FF69B4;">AVIJIT DAM's GitHub Stats</h3>
+    <p>⭐ Total Stars Earned: 4</p>
+    <p>📊 Total Commits (2024): 76</p>
+    <p>🔄 Total PRs: 2</p>
+    <p>❗ Total Issues: 0</p>
+    <p>🤝 Contributed to: 0 repositories</p>
+  </div>
   
-  <!-- Tools -->
-  <h3>Development Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-  </p>
-</div>
-
-<!-- Animated Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avijitdam98&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avijitdam98&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijitdam98&theme=radical&hide_border=true&layout=compact" alt="Most Used Languages" />
 </div>
 
 <!-- Activity Graph -->
