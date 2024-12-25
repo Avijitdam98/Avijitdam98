@@ -27,11 +27,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right"/>
   <div align="left" width="50%">
     <ul>
-      <li>🚀 Architecting scalable solutions with <b>Next.js & React</b></li>
-      <li>🎯 Specializing in <b>Cloud Architecture & System Design</b></li>
-      <li>💡 Passionate about Performance Optimization</li>
-      <li>🌟 Leading Open Source Initiatives</li>
-      <li>⚡ Fun fact: I turn caffeine into code ☕</li>
+      <li>🔭 Currently crafting amazing experiences with <b>Next.js & React</b></li>
+      <li>🌱 Deep diving into <b>System Architecture & Cloud Computing</b></li>
+      <li>💻 Love writing clean, efficient, and maintainable code</li>
+      <li>🎯 Goal: Contribute more to Open Source</li>
+      <li>⚡ Fun fact: I debug with coffee ☕</li>
     </ul>
   </div>
 </div>
