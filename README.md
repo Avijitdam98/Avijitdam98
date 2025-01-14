@@ -100,10 +100,9 @@ class SoftwareArchitect {
 </div>
 
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8dd3-052ac7212ca0.png" alt="Technology Arsenal Icon" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8dd3-052ac7212ca0.png" width="30" />
   Technology Arsenal
-<img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8dd3-052ac7212
-
+  <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8dd3-052ac7212ca0.png" width="30" />
 </h2>
 
 <div align="center">
