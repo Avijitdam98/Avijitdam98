@@ -163,4 +163,3 @@ class SoftwareArchitect {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=24&section=footer" width="100%">
 </div>
-
