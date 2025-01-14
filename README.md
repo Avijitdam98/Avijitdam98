@@ -163,16 +163,4 @@ class SoftwareArchitect {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=24&section=footer" width="100%">
 </div>
-<style>
-  @keyframes gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-</style>
+
