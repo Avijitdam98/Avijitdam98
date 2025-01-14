@@ -29,7 +29,7 @@ const avijit = {
 - 🔭 Currently crafting scalable solutions with **Next.js & React**
 - 🌱 Deep diving into **System Architecture & Cloud Computing**
 - 💡 Passionate about creating efficient, maintainable code
-- 🎯 2024 Goals: 
+- 🎯 2025 Goals: 
   - Master System Design
   - Contribute more to Open Source
   - Build innovative solutions
